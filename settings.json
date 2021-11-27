@@ -1,18 +1,18 @@
 {
     "self_mode": false,
-	"autobio": false,
+	"autobio": true,
 	"antihidetag": true,
 	"user_register": false,
-	"anti_delete" : false,
+	"anti_delete" : true,
 	"anticall": false,
-	"prefix": ".",
+	"prefix": "#",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfc",
-	"ownername": "ZeeoneOfc",
-	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
+	"ownerNumber": "13393006070",
+	"ownerNumberr": "13393006070",
+	"cr": "Wahyuanshar",
+	"ownername": "WahyuAnshar",
+	"botname":"WAHYUBOT",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @ZeeoneOfc"
+	"fake": " 「  WAHYUBOT  」\nCreated By Wahyu Anshar"
 }
